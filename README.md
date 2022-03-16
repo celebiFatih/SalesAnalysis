@@ -1,5 +1,5 @@
 # Sale Analysis
-In this project, an application was created using Qlik Sense with data from a store supply company, designed to evaluate sales in different countries, consider sales trends over time, and discover and focus on product categories with low total sales.
+In this project, an application was created using Qlik Sense with data from a store supply company, designed to evaluate sales in different countries, consider sales trends over time, and discover and focus on product categories with low total sales. For more detailed information, you can review this [report](https://github.com/celebiFatih/SalesAnalysis/blob/main/A%20short%20report%20about%20Qlik%20Sense.pdf).
 ## My Sales Analysis.qvf
 App file containing visualizations developed using tools such as charts, maps, tables, and drawings.
 ## ExerciseData.xlsx
